@@ -1,0 +1,1 @@
+Based on and partially copied from the great experiments of erichlof (https://github.com/erichlof/THREE.js-PathTracing-Renderer)
