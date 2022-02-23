@@ -1,0 +1,22 @@
+{
+  "name": "threepathtracingrenderer",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Christian Bühlmeyer",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "glslify": "^7.1.1",
+    "three": "^0.137.5"
+  },
+  "devDependencies": {
+    "@types/three": "^0.137.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.5",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
